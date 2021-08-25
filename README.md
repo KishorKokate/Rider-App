@@ -28,10 +28,30 @@ contain realtime geolocation, you can see nearby drivers on app, you can request
 ### Searching For Driver 
 <img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/FindingDriver.png" alt="Screenshot1"  width="320" height="550" align="left">
 
-** As you you get driver you will get direction routes for driver and also shows time to reach driver at rider location. In bottom you will get information of driver,car number and many more.
+* when you get driver there will be screen coming for confirm uber  
+
+### Confirm driver
+<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/confirmUber.png" alt="Screenshot1"  width="320" height="550" align="left">
+
+* As you you confirm the uber you will get direction routes for driver and also shows time to reach driver at rider location. In bottom you will get information of driver,car number and many more.
 
 ### Routes for driver to rider 
 <img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/Aftergettingdriver.png" alt="Screenshot1"  width="320" height="550" align="left">
+
+* when driver accept request your request you will get driver animation that is coming towards rider.
+
+### Direction for driver
+<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/DriverarrivedNotify.png" alt="Screenshot1"  width="320" height="550" align="left">
+
+* when driver reach to riders location ,rider get notification that driver is arrived at your location
+
+### Driver Arrived at your place
+<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/driverArrivedNotification.png" alt="Screenshot1"  width="320" height="550" align="left">
+
+
+
+
+
 
 
 
