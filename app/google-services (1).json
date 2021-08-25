@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848901779858",
+    "project_id": "uberrider-5fc56",
+    "storage_bucket": "uberrider-5fc56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848901779858:android:91b7a128c1547107a5d14b",
+        "android_client_info": {
+          "package_name": "com.example.uberrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848901779858-6beo0bqrl97vuhvehvuceo8kqbfr0s1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberrider",
+            "certificate_hash": "d1443b4a7f059c15841bd367dbe646cd96082907"
+          }
+        },
+        {
+          "client_id": "848901779858-s1hlpgkkro8l00aapf8ebq5tedvral1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7Mosqho0Gg0PHFk4VkHjfs019jqGlKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848901779858-s1hlpgkkro8l00aapf8ebq5tedvral1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UberRider</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_rider_home">RiderHomeActivity</string>
+    <string name="permission_req">Location permission require</string>
+    <string name="driver_not_found">Drivers not found</string>
+    <string name="not_found_key">Key not found</string>
+    <string name="where_to">Where to?</string>
+    <string name="city_name_empty">City name is empty</string>
+    <string name="title_activity_requestdriver">requestdriverActivity</string>
+    <string name="token_not_found">"Token not found "</string>
+    <string name="request_driver_found">Request driver found</string>
+    <string name="no_driver_accept_request">There are no driver accept your request</string>
+    <string name="trip_not_found">Trip not found</string>
+    <string name="ascii_dot">■</string>
+    <string name="language_example">Knows English</string>
+    <string name="driver_name">Dane Jone</string>
+</resources>
