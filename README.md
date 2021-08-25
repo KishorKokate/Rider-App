@@ -41,12 +41,12 @@ contain realtime geolocation, you can see nearby drivers on app, you can request
 * when driver accept request your request you will get driver animation that is coming towards rider.
 
 ### Direction for driver
-<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/DriverarrivedNotify.png" alt="Screenshot1"  width="320" height="550" >
+<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/DriverarrivedNotify.png" alt="Screenshot1"  width="600" height="550" >
 
 * when driver reach to riders location ,rider get notification that driver is arrived at your location
 
 ### Driver Arrived at your place
-<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/driverArrivedNotification.png" alt="Screenshot1"  width="320" height="550" >
+<img src="https://github.com/KishorKokate/Rider-App/blob/master/app/src/main/res/raw/driverArrivedNotification.png" alt="Screenshot1"  width="600" height="550" >
 
 
 
